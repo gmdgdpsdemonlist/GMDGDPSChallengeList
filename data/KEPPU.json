@@ -5,15 +5,9 @@
     "creators": ["GMDKOMARU"],
     "verifier": "GMDKOMARU",
     "verification": "https://www.youtube.com/watch?v=szDsW-URaMA",
-    "percentToQualify": "100",
-    "password": "Free To Copy (2.2)",
+    "percentToQualify": 56,
+    "password": "Free To Copy",
     "records": [
-        {
-            "user": "GMDKOMARU",
-            "link": "",
-            "percent": 100,
-            "hz": 60
-        },
         {
             "user": "StintlerGD",
             "link": "",

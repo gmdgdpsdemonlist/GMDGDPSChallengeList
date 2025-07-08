@@ -8,6 +8,11 @@
     "percentToQualify": 47,
     "password": "Free to Copy",
     "records": [
-        
+        {
+            "user": "StintlerGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }

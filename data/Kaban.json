@@ -1,0 +1,24 @@
+{
+    "id": 1464,
+    "name": "Kaban",
+    "author": "Kimech",
+    "creators": ["Kimech"],
+    "verifier": "Kimech",
+    "verification": "",
+    "percentToQualify": 56,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "normalpersonGD",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "StintlerGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

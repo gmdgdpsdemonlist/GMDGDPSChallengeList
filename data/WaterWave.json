@@ -1,0 +1,18 @@
+{
+    "id": 1954,
+    "name": "WaterWave",
+    "author": "KrockLaro",
+    "creators": ["KrockLaro"],
+    "verifier": "normalpersonGD",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "StintlerGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

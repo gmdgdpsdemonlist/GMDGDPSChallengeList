@@ -1,6 +1,6 @@
 {
-    "id": 1839,
-    "name": "yA",
+    "id": 1840,
+    "name": "yS",
     "author": "SpeedMaxYT",
     "creators": ["SpeedMaxYT"],
     "verifier": "SpeedMaxYT",
@@ -8,11 +8,5 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "normalpersonGD",
-            "link": "",
-            "percent": 100,
-            "hz": 144
-        }
     ]
 }

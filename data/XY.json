@@ -1,13 +1,19 @@
 {
-    "id": 1392,
-    "name": "Hydrocid",
+    "id": 1127,
+    "name": "XY",
     "author": "PashaNanix",
     "creators": ["PashaNanix"],
     "verifier": "PashaNanix",
-    "verification": "https://www.youtube.com/watch?v=xhoMHScnLag",
-    "percentToQualify": 58,
+    "verification": "",
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "StintlerGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
         {
             "user": "normalpersonGD",
             "link": "",

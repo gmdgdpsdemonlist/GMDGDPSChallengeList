@@ -1,0 +1,18 @@
+{
+    "id": 2020,
+    "name": "4 Seconds Hell",
+    "author": "GetDown",
+    "creators": ["GetDown"],
+    "verifier": "normalpersonGD",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "GetDown",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

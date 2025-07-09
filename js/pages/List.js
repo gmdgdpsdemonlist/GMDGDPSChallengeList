@@ -118,7 +118,7 @@ export default {
                         The recording must also show the player hit the endwall and show the end screen, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use secret routes or bug routes.
                     </p>
                     <p>
                         Please play on the original copy of the level, unless you're verifying it.

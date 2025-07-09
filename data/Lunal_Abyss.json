@@ -1,23 +1,17 @@
 {
-    "id": 1400,
-    "name": "Lunal Abyss",
-    "author": "PashaNanix",
-    "creators": ["PashaNanix"],
-    "verifier": "PashaNanix",
-    "verification": "https://www.youtube.com/watch?v=CPHspZqlvk0",
-    "percentToQualify": 47,
+    "id": 1755,
+    "name": "Shitty Dance",
+    "author": "StintlerGD",
+    "creators": ["StintlerGD"],
+    "verifier": "StintlerGD",
+    "verification": "",
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
         {
-            "user": "StintlerGD",
-            "link": "",
-            "percent": 100,
-            "hz": 60
-        },
-        {
             "user": "normalpersonGD",
             "link": "",
-            "percent": 93,
+            "percent": 100,
             "hz": 144
         }
     ]

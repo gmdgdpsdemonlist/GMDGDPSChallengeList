@@ -8,11 +8,5 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "SpeedMaxYT",
-            "link": "https://www.youtube.com/watch?v=JYlsREV4F-M",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }

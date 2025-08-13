@@ -1,0 +1,18 @@
+{
+    "id": 2028,
+    "name": "Diamond Nerf",
+    "author": "normalpersonGD",
+    "creators": ["normalpersonGD"],
+    "verifier": "normalpersonGD",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "StintlerGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
